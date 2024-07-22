@@ -1,4 +1,4 @@
-// Copyright 2014 Citra Emulator Project / PPSSPP Project
+// Copyright Citra Emulator Project / Lime3DS Emulator Project / PPSSPP Project
 // Licensed under GPLv2 or any later version
 // Refer to the license.txt file included.
 

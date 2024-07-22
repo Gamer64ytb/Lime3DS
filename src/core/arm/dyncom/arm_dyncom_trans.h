@@ -1,3 +1,7 @@
+// Copyright Citra Emulator Project / Lime3DS Emulator Project
+// Licensed under GPLv2 or any later version
+// Refer to the license.txt file included.
+
 #pragma once
 #ifdef _MSC_VER
 // nonstandard extension used: zero-sized array in struct/union

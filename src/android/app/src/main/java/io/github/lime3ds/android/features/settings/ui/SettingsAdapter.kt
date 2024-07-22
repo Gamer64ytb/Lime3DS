@@ -1,4 +1,4 @@
-// Copyright 2023 Citra Emulator Project
+// Copyright Citra Emulator Project / Lime3DS Emulator Project
 // Licensed under GPLv2 or any later version
 // Refer to the license.txt file included.
 
@@ -450,7 +450,7 @@ class SettingsAdapter(
             R.string.setting_not_editable_description
         ).show((fragmentView as SettingsFragment).childFragmentManager, MessageDialogFragment.TAG)
     }
-    
+
     fun onClickRegenerateConsoleId() {
         MaterialAlertDialogBuilder(context)
             .setTitle(R.string.regenerate_console_id)

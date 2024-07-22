@@ -1,4 +1,4 @@
-// Copyright 2023 Citra Emulator Project
+// Copyright Citra Emulator Project / Lime3DS Emulator Project
 // Licensed under GPLv2 or any later version
 // Refer to the license.txt file included.
 
@@ -959,7 +959,7 @@ class EmulationFragment : Fragment(), SurfaceHolder.Callback, Choreographer.Fram
         resetScale("controlScale-" + NativeLibrary.ButtonType.BUTTON_SWAP)
         binding.surfaceInputOverlay.refreshControls()
     }
-    
+
     private fun setControlOpacity(opacity: Int) {
         preferences.edit()
             .putInt("controlOpacity", opacity)

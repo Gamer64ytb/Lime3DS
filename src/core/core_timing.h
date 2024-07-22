@@ -1,4 +1,4 @@
-// Copyright 2008 Dolphin Emulator Project / 2017 Citra Emulator Project
+// Copyright Citra Emulator Project / Lime3DS Emulator Project
 // Licensed under GPLv2+
 // Refer to the license.txt file included.
 
